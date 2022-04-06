@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/study-helper-shared/static/css/main.2546319f.css",
+    "main.js": "/study-helper-shared/static/js/main.3f3cdaaa.js",
+    "static/media/day.jpeg": "/study-helper-shared/static/media/day.8499c33696b132f37515.jpeg",
+    "static/media/night.jpeg": "/study-helper-shared/static/media/night.30fb1ff5dd9ba7f9ccbf.jpeg",
+    "index.html": "/study-helper-shared/index.html",
+    "main.2546319f.css.map": "/study-helper-shared/static/css/main.2546319f.css.map",
+    "main.3f3cdaaa.js.map": "/study-helper-shared/static/js/main.3f3cdaaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2546319f.css",
+    "static/js/main.3f3cdaaa.js"
+  ]
+}
